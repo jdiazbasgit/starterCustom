@@ -1,0 +1,11 @@
+allianz:
+  concierto:
+    sonido:
+      guitarra: tlan, tlan, tlan en yml
+      tambor: pom, pom,, pom en yml
+      trompeta: tuuu, tuuu, tuu en yml
+    instrumento:
+      instrumento-solista: Guitarra
+      instrumentos-hombreombreorquesta:
+      - Trompeta
+      - Guitarra
